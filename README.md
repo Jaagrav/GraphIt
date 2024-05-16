@@ -1,0 +1,5 @@
+# GraphIt
+
+Graphlt is an intuitive app tailored for creating detailed Mermaid graphs, equipped with resources like documentation and templates within a seamless interface. It caters to a wide range of graphing needs, facilitating the easy design, storage, and retrieval of visualizations for code architectures, system designs, algorithms, and flowcharts. Originating from the need to simplify the process for students required to submit visual explanations of their code, Graphlt eliminates the complexity and registration barriers of traditional tools. This makes it an invaluable resource not only for students crafting flowcharts for academic purposes but also for professionals seeking to elucidate technical architectures. Compatible with iPad, iPhone, and MacBook, Graphlt streamlines the creation and sharing of Mermaid graphs for both educational and professional settings, making it a go-to solution for anyone looking to visualize complex information effortlessly.
+
+![GraphIt cover](https://i.ibb.co/7JbGDWF/graphit-thumbnail.png)
