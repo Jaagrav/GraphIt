@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "codeviewer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dwarvesf/CodeViewer.git",
+      "state" : {
+        "revision" : "44bd04af81046ce65a4e38dc97a9dd3d387f069e",
+        "version" : "1.2.4"
+      }
+    },
+    {
+      "identity" : "networkimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/NetworkImage",
+      "state" : {
+        "revision" : "7aff8d1b31148d32c5933d75557d42f6323ee3d1",
+        "version" : "6.0.0"
+      }
+    },
+    {
+      "identity" : "splitview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stevengharris/SplitView.git",
+      "state" : {
+        "revision" : "b37d559fd334cd5403433a29a5da6fe78f80714a",
+        "version" : "3.5.2"
+      }
+    },
+    {
+      "identity" : "swift-markdown-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/swift-markdown-ui",
+      "state" : {
+        "revision" : "ae799d015a5374708f7b4c85f3294c05f2a564e2",
+        "version" : "2.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
